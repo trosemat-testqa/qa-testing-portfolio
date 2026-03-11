@@ -1,0 +1,12 @@
+# Test Cases
+
+Test Case 1
+Scenario: Add item to cart
+
+Steps
+1. Search for product
+2. Click product
+3. Click Add to Cart
+
+Expected Result
+Product appears in cart.
