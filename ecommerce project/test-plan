@@ -1,1 +1,19 @@
+# E-commerce Website Testing
 
+## Objective
+Test the shopping and checkout process for functionality issues.
+
+## Scope
+- login
+- product search
+- cart functionality
+- checkout
+
+## Testing Types
+- functional testing
+- usability testing
+- exploratory testing
+
+## Environment
+Chrome browser
+Desktop
